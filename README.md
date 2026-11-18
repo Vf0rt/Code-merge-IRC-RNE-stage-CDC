@@ -36,11 +36,6 @@ setwd("/working_directoty/users/")
 
 # 3 Merge 
 
-__Méthode__ : La méthode du merge est expliqué dans ...
-
-Des informations sont également présentes dans ce markdown. EN cas de doute, privilégier le word.
-
-
 ## 3.1 Merge 1 
 
 __Méthode__ : La première étape se décompose en 6 sous étapes et 5 sous merges :  
